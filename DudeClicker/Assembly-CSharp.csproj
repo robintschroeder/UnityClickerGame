@@ -54,17 +54,18 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Click.cs" />
+     <Compile Include="Assets\Scripts\UpgradeManager.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/2DGames/DudeClicker/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/Code/Unity/UnityClicker/DudeClicker/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/2DGames/DudeClicker/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Code/Unity/UnityClicker/DudeClicker/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/2DGames/DudeClicker/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/Code/Unity/UnityClicker/DudeClicker/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/2DGames/DudeClicker/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Code/Unity/UnityClicker/DudeClicker/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
